@@ -1,21 +1,3 @@
-node_modules/
-dist/
-build/
-.vite/
-/.env
-.env.local
-.env.*.local
-.DS_Store
-.idea/
-.vscode/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-coverage/
-
-# local OS files
-Thumbs.db
-ehthumbs.db
 # Logs
 logs
 *.log
